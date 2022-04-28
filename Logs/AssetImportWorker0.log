@@ -259,3 +259,119 @@ Received Import Request.
   path: Assets/Scenes
   artifactKey: Guid(ec840f956f7c55449b3989f96138ee66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes using Guid(ec840f956f7c55449b3989f96138ee66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c008e1e1755f358d75c6161622890d1') in 0.003617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 229.873699 seconds.
+  path: Assets/Splash.png
+  artifactKey: Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Splash.png using Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c5e8647be99c6d71069dc7eaf3029a') in 0.053408 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000999 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17ee93000 may have been prematurely finalized
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Domain Reload Profiling:
+	ReloadAssembly (590ms)
+		BeginReloadAssembly (75ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (457ms)
+			LoadAssemblies (28ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (114ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (249ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (38ms)
+				ProcessInitializeOnLoadAttributes (109ms)
+				ProcessInitializeOnLoadMethodAttributes (78ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2180 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (23.0 KB). Loaded Objects now: 2640.
+Memory consumption went from 191.8 MB to 191.8 MB.
+Total: 4.605542 ms (FindLiveObjects: 0.068750 ms CreateObjectMapping: 0.027167 ms MarkObjects: 4.493917 ms  DeleteObjects: 0.015459 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 29.832763 seconds.
+  path: Assets/Pics/2.lined-paper-texture.jpg
+  artifactKey: Guid(c4b10869a618e954b82175c11ebf1d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pics/2.lined-paper-texture.jpg using Guid(c4b10869a618e954b82175c11ebf1d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be9e1998296956ed17c576b0d117f56') in 0.045428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Materials/_original.jpg
+  artifactKey: Guid(6e364e3208be6164683959f1c2cf4b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/_original.jpg using Guid(6e364e3208be6164683959f1c2cf4b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '236d8352fb546b994eb0bffd9d469c2a') in 0.245714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.892307 seconds.
+  path: Assets/Materials/Bones0009_1_thumblarge.jpg
+  artifactKey: Guid(f4751988ae89ed64888e45f30b0e6aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bones0009_1_thumblarge.jpg using Guid(f4751988ae89ed64888e45f30b0e6aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b80f5a08a4c8c8e2f63f127ec5c865bc') in 0.016389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.064028 seconds.
+  path: Assets/Materials/DSC_0007.JPG
+  artifactKey: Guid(46a09c6f189247b48bfe809de2719c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/DSC_0007.JPG using Guid(46a09c6f189247b48bfe809de2719c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72e311d6f39b7497b772ff5f066ae7eb') in 0.943446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Pics/Icon.png
+  artifactKey: Guid(61719d35916f4264480b7e03bf14312c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pics/Icon.png using Guid(61719d35916f4264480b7e03bf14312c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9313780c634dbc195fa68708596967') in 0.019866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.333311 seconds.
+  path: Assets/Materials/Lol-Meme-Face-12.jpg
+  artifactKey: Guid(aa300fa285121524999023ca16d8cdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Lol-Meme-Face-12.jpg using Guid(aa300fa285121524999023ca16d8cdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b666b8d8f9491afa66de98af36a4e45') in 0.070261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.682093 seconds.
+  path: Assets/Pics/papir_iroszer.jpg
+  artifactKey: Guid(fa9c3c8b359d08f4da0677c5e3833616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pics/papir_iroszer.jpg using Guid(fa9c3c8b359d08f4da0677c5e3833616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91f51f0c6c12567222b49f274748180') in 0.019152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Materials/Stone Texture wall large rock grey image.jpg
+  artifactKey: Guid(fd95217799e9a664dbe23d2259fd710f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stone Texture wall large rock grey image.jpg using Guid(fd95217799e9a664dbe23d2259fd710f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04128c2121ae1d2438102c43cccb9119') in 0.226526 seconds 
